@@ -17,7 +17,7 @@
   ![image](https://user-images.githubusercontent.com/94900436/143686626-ab06086f-d30d-4b70-baeb-2212d86ca59b.png)
   9. Please give access in your emulator so the microphone can function. Click
   ![image](https://user-images.githubusercontent.com/94900436/143686813-9403322e-eeb2-48f3-b63f-2459eadedf00.png)
-     Then click
+  Then click
      ![image](https://user-images.githubusercontent.com/94900436/143686746-4388088c-5d17-4333-9c3c-ce3fb14e7832.png)
   10. Enjoy the translator app :)
 
